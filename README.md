@@ -1,6 +1,5 @@
 # CodeAlpha_Web-Scraping
 ### 🎯 Objective
-
 Extract book details — *title, price, availability, and rating* — from the website and store them in a structured CSV dataset.
 
 ## 🧩 *Short Report 
